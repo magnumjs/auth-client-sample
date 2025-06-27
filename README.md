@@ -1,6 +1,6 @@
 # Auth Client Sample
 
-A simple React + Vite app that integrates with a **[federated tenant-based auth server](https://github.com/magnumjs/auth-client-sample)**.  
+A simple React + Vite app that integrates with a **[federated tenant-based auth server](https://github.com/magnumjs/auth-server)**.  
 Supports login redirects, token handling, and refresh token logic.
 
 ---
